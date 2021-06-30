@@ -1,0 +1,5 @@
+username:- 181219
+password:-Mahoj@18
+email:- manikantareddy434@gmail.com
+
+URL:_ http://localhost:8080/
